@@ -2,4 +2,5 @@
 Image Segmentation based on U-Net
 
 Dataset: 
-  Heart MRI Image DataSet : Left Atrial Segmentation: https://www.kaggle.com/datasets/adarshsng/heart-mri-image-dataset-left-atrial-segmentation/data  
+  Pets Image DataSet : https://www.kaggle.com/datasets/alexisbcook/oxford-pets  
+  https://www.kaggle.com/code/ammarnassanalhajali/image-segmentation-with-a-u-net-and-keras
